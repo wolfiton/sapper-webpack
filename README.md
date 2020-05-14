@@ -1,6 +1,11 @@
+
+# Created for debuging, why Toast-UI Editor is not working with Sapper?
+
 # sapper-template
 
 The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack.
+
+That was ,modified to add Toast-UI Editor, but didn't work
 
 
 ## Getting started
